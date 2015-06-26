@@ -7,3 +7,9 @@ body {
 p {
 	font-size: 22px;
 }
+
+img {
+	margin: 40px 0px 0px 0px;
+	border: 7px solid blue;
+	border-radius: 22px;
+}
