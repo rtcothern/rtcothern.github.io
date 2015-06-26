@@ -7,9 +7,3 @@ body {
 p {
 	font-size: 22px;
 }
-
-#logo {
-	margin: 40px 0px 0px 0px;
-	border: 7px solid black;
-	border-radius: 20px;
-}
