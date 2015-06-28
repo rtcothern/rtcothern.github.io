@@ -310,6 +310,14 @@ a.github {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
 
+a.linkedin {
+    background: url(../images/linkedin_thumbnail.png) no-repeat 1px;
+}
+
+a.facebook {
+    background: url(../images/facebook_thumbnail.png) no-repeat 1px;
+}
+
 a.buttons:hover {
 	color: #fff;
 	text-decoration: none;
